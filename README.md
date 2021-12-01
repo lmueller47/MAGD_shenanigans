@@ -1,1 +1,1 @@
-# various_shenanigans
+# MAGD_shenanigans
